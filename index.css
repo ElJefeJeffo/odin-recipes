@@ -1,0 +1,64 @@
+body {
+	background-color: #00001F;
+	font-family: Arial, Helvetica, Sans-Serif;
+	color: rgb(192,192,192);
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	width: 75%;
+}
+
+.bottom, .big, h1, h2, h3 {
+	font-weight: 1000;
+}
+
+.bottom, .big, img, h1, h2, h3, p {
+	margin-top: 55px;
+	margin-bottom: 5px;
+}
+
+.bottom, .big, h1, h2, h3, div {
+	text-align: center;
+}
+
+p {
+	font-size: 40px;
+}
+
+h1 {
+	font-size: 120px;
+}
+
+h2 {
+	font-size: 80px;
+}
+
+h3 {
+	font-size: 50px;
+}
+
+a:link {
+	color: #FFD700;
+}
+
+a:visited {
+	color: #4B0082;
+}
+
+ul, ol {
+	display: inline-block;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.bottom {
+	font-size: 25px;
+}
+
+.big .list {
+	font-size: 55px;
+}
